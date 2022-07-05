@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua maquiana, por favor digite:
 
 ```
-install Git Bash
+node app.js
 ```
